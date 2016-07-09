@@ -1,1 +1,1 @@
-# jQuery-Cheatsheet
+https://oscarotero.com/jquery/
